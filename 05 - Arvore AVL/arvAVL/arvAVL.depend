@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1696290049 source:c:\users\amand\desktop\ads\3 semestre\ed2\05 - arvore avl\arvavl\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreAVl.h"
+
+1696288293 c:\users\amand\desktop\ads\3 semestre\ed2\05 - arvore avl\arvavl\arvoreavl.h
+
+1696289522 source:c:\users\amand\desktop\ads\3 semestre\ed2\05 - arvore avl\arvavl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreAVL.h"
+

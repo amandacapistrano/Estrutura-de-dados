@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1694879739 source:c:\users\amand\desktop\ads\ed2\arvore binaria\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1694879337 c:\users\amand\desktop\ads\ed2\arvore binaria\arvorebinaria\arvorebinaria.h
+
+1694879883 source:c:\users\amand\desktop\ads\ed2\arvore binaria\arvorebinaria\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1694879883 source:c:\users\amand\desktop\ads\3 semestre\ed2\04 - arvore binaria\arvorebinaria\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1694879337 c:\users\amand\desktop\ads\3 semestre\ed2\04 - arvore binaria\arvorebinaria\arvorebinaria.h
+
+1694880143 source:c:\users\amand\desktop\ads\3 semestre\ed2\04 - arvore binaria\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
